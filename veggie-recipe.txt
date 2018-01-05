@@ -1,0 +1,6 @@
+ingredients:
+ - 1 lb brussel sprouts
+
+Directions:
+  1. Halve and roast at 400 degrees
+  FIN!
